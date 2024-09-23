@@ -1,0 +1,1307 @@
+body{
+  justify-content: center;
+  align-items: center;
+}
+.landing-page {
+  background: #ffffff; 
+  height: 4039px;
+  position: relative;
+  overflow: hidden;
+  justify-content: center;
+  align-items: center;
+}
+.frame-26 {
+  background: #136ecc;
+  width: 1440px;
+  height: 938px;
+  position: absolute;
+  left: 0px;
+  top: 3101px;
+  overflow: hidden;
+}
+.frame-33 {
+  width: 1075px;
+  height: 246px;
+  position: absolute;
+  left: 256px;
+  top: 463px;
+} 
+.frame-28 {
+  width: 238px;
+  height: 197px;
+  position: absolute;
+  left: 229px;
+  top: 0px;
+}
+.support {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Outfit-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.help-center {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Outfit-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: 69px;
+}
+.safety-center {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Outfit-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: 118px;
+}
+.community-guidelines {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Outfit-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: 167px;
+}
+.frame-27 {
+  width: 118px;
+  height: 246px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.company {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Outfit-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.about-us {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Outfit-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: 69px;
+}
+.resorts {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Outfit-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: 118px;
+}
+.lodging {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Outfit-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: 167px;
+}
+.contact-us {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Outfit-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: 216px;
+}
+.frame-29 {
+  width: 189px;
+  height: 246px;
+  position: absolute;
+  left: 578px;
+  top: 0px;
+}
+.legal {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Outfit-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.cookies-policy {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Outfit-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: 69px;
+}
+.privacy-policy {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Outfit-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: 118px;
+}
+.terms-of-service {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Outfit-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: 167px;
+}
+.law-enforcement {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Outfit-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: 216px;
+}
+.frame-32 {
+  width: 197px;
+  height: 186px;
+  position: absolute;
+  left: 878px;
+  top: 0px;
+}
+.frame-30 {
+  width: 197px;
+  height: 50px;
+  position: absolute;
+  left: 0px;
+  top: 59px;
+}
+.rectangle-2 {
+  background: #000000;
+  border-radius: 10px;
+  width: 197px;
+  height: 50px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.google-play {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Outfit-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 54px;
+  top: 21px;
+}
+.google-playstore-icon-1 {
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  left: 0px;
+  top: 1px;
+  object-fit: cover;
+}
+.get-it-on {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Outfit-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 54px;
+  top: 4px;
+}
+.frame-31 {
+  width: 197px;
+  height: 50px;
+  position: absolute;
+  left: 0px;
+  top: 136px;
+}
+.app-store {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Outfit-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 54px;
+  top: 20px;
+}
+.download-from-the {
+  color: #ffffff;
+  text-align: left; 
+  font-family: "Outfit-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 54px;
+  top: 4px;
+}
+.app-store-icon-1 {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 9px;
+  top: 6px;
+  object-fit: cover;
+}
+.install-app {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Outfit-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.copyright {
+  position: absolute;
+  inset: 0;
+}
+.vector {
+  width: 2.08%;
+  height: 3.2%;
+  position: absolute;
+  right: 52.36%;
+  left: 45.56%;
+  bottom: 0.64%;
+  top: 96.16%;
+  overflow: visible;
+}
+.copyright2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Outfit-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 545px;
+  top: 902px;
+}
+.arctic-travels-2024 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Outfit-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 692px;
+  top: 902px;
+}
+.frame-23 {
+  width: 1372px;
+  height: 1308px;
+  position: absolute;
+  left: 39px;
+  top: 946px;
+}
+.line-2 {
+  margin-top: -4px;
+  border-style: solid;
+  border-color: #ffff00;
+  border-width: 4px 0 0 0;
+  width: 107px;
+  height: 0px;
+  position: absolute;
+  left: 629px;
+  top: 37px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.rediscover-with-our-popular-winter-destinations {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-SemiBold", sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+  position: absolute;
+  left: calc(50% - 296px);
+  top: 0px;
+}
+.frame-14 {
+  background: #ffffff;
+  border-radius: 20px;
+  width: 629px;
+  height: 368px;
+  position: absolute;
+  left: 0px;
+  top: 74px;
+  box-shadow: 4px 3px 4px 2px rgba(0, 0, 0, 0.3);
+  overflow: hidden;
+}
+.garmisch-ski-resort-germany {
+  color: #000000;
+  text-align: left;
+  font-family: "Outfit-SemiBold", sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+  position: absolute;
+  left: 13px;
+  top: 22px;
+}
+.garmisch-ski-resort {
+  border-radius: 20px;
+  width: 560px;
+  height: 279px;
+  position: absolute;
+  left: 13px;
+  top: 67px;
+  object-fit: cover;
+}
+.frame-15 {
+  background: #ffffff;
+  border-radius: 20px;
+  width: 629px;
+  height: 368px;
+  position: absolute;
+  left: 743px;
+  top: 74px;
+  box-shadow: 4px 3px 4px 2px rgba(0, 0, 0, 0.3);
+  overflow: hidden;
+}
+.trysil-norway {
+  color: #000000;
+  text-align: left;
+  font-family: "Outfit-SemiBold", sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+  position: absolute;
+  left: 13px;
+  top: 22px;
+}
+.trysil-skiing-pic {
+  border-radius: 20px;
+  width: 560px;
+  height: 279px;
+  position: absolute;
+  left: 13px;
+  top: 67px;
+  object-fit: cover;
+}
+.vector2 {
+  width: 1.91%;
+  height: 2.01%;
+  position: absolute;
+  right: 71.85%;
+  left: 26.24%;
+  bottom: 97.84%;
+  top: 0.15%;
+  overflow: visible;
+}
+.frame-13 {
+  background: #ffffff;
+  border-radius: 20px;
+  width: 629px;
+  height: 368px;
+  position: absolute;
+  left: 0px;
+  top: 507px;
+  box-shadow: 4px 3px 4px 2px rgba(0, 0, 0, 0.3);
+  overflow: hidden;
+}
+.zermatt-skiing-pic-1 {
+  border-radius: 20px;
+  width: 560px;
+  height: 279px;
+  position: absolute;
+  left: 15px;
+  top: 63px;
+  object-fit: cover;
+}
+.zermatt-switzerland {
+  color: #000000;
+  text-align: left;
+  font-family: "Outfit-SemiBold", sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+  position: absolute;
+  left: 15px;
+  top: 18px;
+}
+.frame-16 {
+  background: rgba(255, 255, 255, 0.19);
+  border-radius: 20px;
+  width: 629px;
+  height: 368px;
+  position: absolute;
+  left: 743px;
+  top: 507px;
+  box-shadow: 4px 3px 4px 2px rgba(0, 0, 0, 0.3);
+  overflow: hidden;
+}
+.levi-ski-village-1 {
+  border-radius: 20px;
+  width: 560px;
+  height: 279px;
+  position: absolute;
+  left: 18px;
+  top: 62px;
+  object-fit: cover;
+}
+.levi-finland {
+  color: #000000;
+  text-align: left;
+  font-family: "Outfit-SemiBold", sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+  position: absolute;
+  left: 18px;
+  top: 15px;
+}
+.frame-17 {
+  background: #ffffff;
+  border-radius: 20px;
+  width: 629px;
+  height: 368px;
+  position: absolute;
+  left: 0px;
+  top: 940px;
+  box-shadow: 4px 3px 4px 2px rgba(0, 0, 0, 0.3);
+  overflow: hidden;
+}
+.waterfront-resort-nepal {
+  color: #000000;
+  text-align: left;
+  font-family: "Outfit-SemiBold", sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+  position: absolute;
+  left: 21px;
+  top: 19px;
+}
+.waterfront-resort-1 {
+  border-radius: 20px;
+  width: 560px;
+  height: 279px;
+  position: absolute;
+  left: 21px;
+  top: 67px;
+  object-fit: cover;
+}
+.frame-18 {
+  background: rgba(255, 255, 255, 0.19);
+  border-radius: 20px;
+  width: 629px;
+  height: 368px;
+  position: absolute;
+  left: 743px;
+  top: 940px;
+  box-shadow: 4px 3px 4px 2px rgba(0, 0, 0, 0.3);
+  overflow: hidden;
+}
+.niseko-ski-resort-1 {
+  border-radius: 20px;
+  width: 560px;
+  height: 279px;
+  position: absolute;
+  left: 24px;
+  top: 67px;
+  object-fit: cover;
+}
+.niseko-japan {
+  color: #000000;
+  text-align: left;
+  font-family: "Outfit-SemiBold", sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+  position: absolute;
+  left: 24px;
+  top: 16px;
+}
+.frame-1 {
+  border-radius: 15px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 1px;
+  width: 1364px;
+  height: 854px;
+  position: absolute;
+  left: 0px;
+  top: -904px;
+  overflow: hidden;
+}
+.uiw-date {
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  left: 672px;
+  top: 395px;
+  overflow: hidden;
+}
+.bxs-up-arrow {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 670px;
+  top: 393px;
+  overflow: hidden;
+}
+.rectangle-1 {
+  background: rgba(23, 0, 225, 0.38);
+  border-radius: 15px;
+  width: 1364px;
+  height: 854px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.arctic-travels {
+  text-align: left;
+  font-family: "Outfit-Medium", sans-serif;
+  font-size: 32px;
+  font-weight: 500;
+  position: absolute;
+  left: 49px;
+  top: 45px;
+  width: 207px;
+  height: 40px;
+}
+.arctic-travels-span {
+  color: #ffffff;
+  font-family: "Outfit-Medium", sans-serif;
+  font-size: 32px;
+  font-weight: 500;
+}
+.arctic-travels-span2 {
+  color: #ffff00;
+  font-family: "Outfit-Medium", sans-serif;
+  font-size: 32px;
+  font-weight: 500;
+}
+.frame-2 {
+  background: rgba(255, 255, 255, 0.19);
+  border-radius: 30px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 2px;
+  width: 656px;
+  height: 56px;
+  position: absolute;
+  left: 326px;
+  top: 36px;
+  overflow: hidden;
+}
+.home {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Outfit-Medium", sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  position: absolute;
+  left: 27px;
+  top: 14px;
+}
+.resorts2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Outfit-Medium", sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  position: absolute;
+  left: 571px;
+  top: 16px;
+}
+.lodge {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Outfit-Medium", sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  position: absolute;
+  left: 439px;
+  top: 16px;
+}
+.regions {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Outfit-Medium", sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  position: absolute;
+  left: 157px;
+  top: 16px;
+}
+.passes {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Outfit-Medium", sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  position: absolute;
+  left: 303px;
+  top: 16px;
+}
+.frame-3 {
+  border-radius: 50px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 3px;
+  width: 110px;
+  height: 56px;
+  position: absolute;
+  left: 1053px;
+  top: 36px;
+  overflow: hidden;
+}
+.frame-4 {
+  background: #ffffff;
+  border-radius: 30px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 1px;
+  width: 55px;
+  height: 56px;
+  position: absolute;
+  left: 55px;
+  top: 0px;
+  overflow: hidden;
+}
+.en {
+  color: #000000;
+  text-align: left;
+  font-family: "Outfit-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 15px;
+  top: calc(50% - 13px);
+}
+.de {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Outfit-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 19px;
+  top: calc(50% - 13px);
+}
+.frame-5 {
+  background: #ffffff;
+  border-radius: 30px;
+  border-style: solid;
+  border-color: rgba(255, 255, 255, 0.19);
+  border-width: 1px;
+  width: 101px;
+  height: 56px;
+  position: absolute;
+  left: 1238px;
+  top: 36px;
+  overflow: hidden;
+}
+.login {
+  color: #000000;
+  text-align: left;
+  font-family: "Outfit-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 24.5px);
+  top: calc(50% - 13px);
+}
+.plan-the-perfect {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-SemiBold", sans-serif;
+  font-size: 48px;
+  font-weight: 600;
+  position: absolute;
+  left: 137px;
+  top: 187px;
+}
+.winter-trip {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-SemiBold", sans-serif;
+  font-size: 48px;
+  font-weight: 600;
+  position: absolute;
+  left: 162px;
+  top: 244px;
+  width: 313px;
+}
+.easily-plan-your-ideal-ski-trip-from-home-with-the-help-of-professionals {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Outfit-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 43px;
+  top: 323px;
+}
+.frame-6 {
+  background: #ffffff;
+  border-radius: 10px;
+  width: 1154px;
+  height: 154px;
+  position: absolute;
+  left: 121px;
+  top: 441px;
+  overflow: hidden;
+}
+.where-would-you-like-to-go {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-SemiBold", sans-serif;
+  font-size: 14px;
+  font-weight: 600;
+  position: absolute;
+  left: 34px;
+  top: 23px;
+}
+.departure-date {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-SemiBold", sans-serif;
+  font-size: 14px;
+  font-weight: 600;
+  position: absolute;
+  left: 835px;
+  top: 23px;
+}
+.where-would-you-like-to-stay {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-SemiBold", sans-serif;
+  font-size: 14px;
+  font-weight: 600;
+  position: absolute;
+  left: 435px;
+  top: 23px;
+}
+.frame-7 {
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 295px;
+  height: 55px;
+  position: absolute;
+  left: 27px;
+  top: 58px;
+  overflow: hidden;
+}
+.select-your-destination {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-SemiBold", sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  position: absolute;
+  left: 45px;
+  top: 14px;
+}
+.zondicons-location {
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  left: 11px;
+  top: 15px;
+  overflow: visible;
+}
+.vector3 {
+  width: 3.39%;
+  height: 14.55%;
+  position: absolute;
+  right: 5.42%;
+  left: 91.19%;
+  bottom: 29.09%;
+  top: 56.36%;
+  transform: translate(0px, -8px);
+  overflow: visible;
+}
+.frame-8 {
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 295px;
+  height: 55px;
+  position: absolute;
+  left: 828px;
+  top: 58px;
+  overflow: hidden;
+}
+.vector4 {
+  width: 3.39%;
+  height: 14.55%;
+  position: absolute;
+  right: 5.42%;
+  left: 91.19%;
+  bottom: 29.09%;
+  top: 56.36%;
+  transform: translate(0px, -8px);
+  overflow: visible;
+}
+.vector5 {
+  width: 6.78%;
+  height: 36.36%;
+  position: absolute;
+  right: 89.49%;
+  left: 3.73%;
+  bottom: 34.55%;
+  top: 29.09%;
+  overflow: visible;
+}
+.frame-9 {
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 295px;
+  height: 55px;
+  position: absolute;
+  left: 428px;
+  top: 58px;
+  overflow: hidden;
+}
+.select-lodging {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-SemiBold", sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  position: absolute;
+  left: 45px;
+  top: 14px;
+}
+.vector6 {
+  width: 3.39%;
+  height: 14.55%;
+  position: absolute;
+  right: 5.42%;
+  left: 91.19%;
+  bottom: 29.09%;
+  top: 56.36%;
+  transform: translate(0px, -8px);
+  overflow: visible;
+}
+.tabler-bed-filled {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 12px;
+  top: 14px;
+  overflow: hidden;
+}
+.group {
+  width: 83.33%;
+  height: 54.16%;
+  position: absolute;
+  right: 8.33%;
+  left: 8.33%;
+  bottom: 20.84%;
+  top: 25%;
+  overflow: visible;
+}
+.frame-10 {
+  background: #136ecc;
+  border-radius: 20px;
+  width: 219px;
+  height: 67px;
+  position: absolute;
+  left: calc(50% - 110px);
+  top: 640px;
+  overflow: hidden;
+}
+.book-now {
+  color: #ffff00;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 28px;
+  top: 10px;
+}
+.line-1 {
+  margin-top: -4px;
+  border-style: solid;
+  border-color: #ffff00;
+  border-width: 4px 0 0 0;
+  width: 174px;
+  height: 0px;
+  position: absolute;
+  left: 354px;
+  top: 244px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.frame-22 {
+  width: 1396px;
+  height: 508px;
+  position: absolute;
+  left: 23px;
+  top: 2323px;
+}
+.vector7 {
+  width: 1.48%;
+  height: 3.15%;
+  position: absolute;
+  right: 98.52%;
+  left: 0%;
+  bottom: 46.46%;
+  top: 50.39%;
+  transform: translate(0px, 0px);
+  overflow: visible;
+}
+.vector8 {
+  width: 1.48%;
+  height: 3.15%;
+  position: absolute;
+  right: -1.48%;
+  left: 100%;
+  bottom: 42.2%;
+  top: 54.65%;
+  transform: translate(-16px, -20.61px);
+  overflow: visible;
+}
+.group-3 {
+  position: absolute;
+  inset: 0;
+}
+.group-1 {
+  width: 316px;
+  height: 36px;
+  position: static;
+}
+.vector9 {
+  width: 1.25%;
+  height: 5.68%;
+  position: absolute;
+  right: 60.06%;
+  left: 38.68%;
+  bottom: 94.32%;
+  top: 0%;
+  overflow: visible;
+}
+.latest-arctic-travel-post {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-SemiBold", sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+  position: absolute;
+  left: calc(50% - 133px);
+  top: 0px;
+}
+.frame-19 {
+  background: #ffffff;
+  border-radius: 20px;
+  width: 381px;
+  height: 338px;
+  position: absolute;
+  left: 46px;
+  top: 88px;
+  box-shadow: 4px 3px 4px 5px rgba(0, 0, 0, 0.3);
+  overflow: hidden;
+}
+.person-skiing-1 {
+  border-radius: 20px;
+  width: 339px;
+  height: 184px;
+  position: absolute;
+  left: 21px;
+  top: 23px;
+  object-fit: cover;
+}
+.exploring-winter-wonderland {
+  color: rgba(0, 0, 0, 0.87);
+  text-align: left;
+  font-family: "Outfit-Medium", sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  position: absolute;
+  left: 21px;
+  top: 217px;
+}
+.embrace-the-magic-of-winter-travel {
+  color: rgba(0, 0, 0, 0.87);
+  text-align: left;
+  font-family: "Outfit-Medium", sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  position: absolute;
+  left: 21px;
+  top: 242px;
+}
+.travelpedia {
+  color: rgba(0, 0, 0, 0.34);
+  text-align: left;
+  font-family: "Outfit-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 21px;
+  top: 279px;
+}
+._3-min-read {
+  color: rgba(0, 0, 0, 0.33);
+  text-align: left;
+  font-family: "Outfit-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 21px;
+  top: 303px;
+}
+.frame-21 {
+  background: #ffffff;
+  border-radius: 20px;
+  width: 381px;
+  height: 338px;
+  position: absolute;
+  left: 511px;
+  top: 88px;
+  box-shadow: 4px 3px 4px 5px rgba(0, 0, 0, 0.3);
+  overflow: hidden;
+}
+.cozy-cottage-1 {
+  border-radius: 20px;
+  width: 339px;
+  height: 184px;
+  position: absolute;
+  left: 21px;
+  top: 22px;
+  object-fit: cover;
+}
+.cozy-winter-retreats-embrace-hygge {
+  color: rgba(0, 0, 0, 0.87);
+  text-align: left;
+  font-family: "Outfit-Medium", sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  position: absolute;
+  left: 21px;
+  top: 218px;
+}
+.in-charming-cabins {
+  color: rgba(0, 0, 0, 0.87);
+  text-align: left;
+  font-family: "Outfit-Medium", sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  position: absolute;
+  left: 21px;
+  top: 244px;
+}
+.travel-with-joe {
+  color: rgba(0, 0, 0, 0.34);
+  text-align: left;
+  font-family: "Outfit-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 21px;
+  top: 275px;
+}
+._9-min-read {
+  color: rgba(0, 0, 0, 0.33);
+  text-align: left;
+  font-family: "Outfit-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 21px;
+  top: 299px;
+}
+.frame-20 {
+  background: #ffffff;
+  border-radius: 20px;
+  width: 381px;
+  height: 338px;
+  position: absolute;
+  left: 973px;
+  top: 88px;
+  box-shadow: 4px 3px 4px 5px rgba(0, 0, 0, 0.3);
+  overflow: hidden;
+}
+.winter-festival-1 {
+  border-radius: 20px;
+  width: 339px;
+  height: 184px;
+  position: absolute;
+  left: 21px;
+  top: 22px;
+  object-fit: cover;
+}
+.winter-festivals-celebrating-the {
+  color: #000000de;
+  text-align: left;
+  font-family: "Outfit-Medium", sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  position: absolute;
+  left: 21px;
+  top: 216px;
+}
+.season-with-joy {
+  color: #000000de;
+  text-align: left;
+  font-family: "Outfit-Medium", sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  position: absolute;
+  left: 21px;
+  top: 242px;
+}
+.winterize-article {
+  color: rgba(0, 0, 0, 0.34);
+  text-align: left;
+  font-family: "Outfit-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 21px;
+  top: 273px;
+}
+._5-min-read {
+  color: rgba(0, 0, 0, 0.33);
+  text-align: left;
+  font-family: "Outfit-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 21px;
+  top: 297px;
+}
+.group-2 {
+  position: absolute;
+  inset: 0;
+}
+.ellipse-1 {
+  background: rgba(0, 0, 0, 0.6);
+  border-radius: 50%;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  left: 656px;
+  top: 488px;
+}
+.ellipse-2 {
+  background: rgba(0, 0, 0, 0.2);
+  border-radius: 50%;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  left: 718px;
+  top: 488px;
+}
+.ellipse-3 {
+  background: rgba(0, 0, 0, 0.4);
+  border-radius: 50%;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  left: 687px;
+  top: 488px;
+}
+.frame-24 {
+  background: #c4c4c4;
+  border-radius: 30px;
+  width: 1219px;
+  height: 475px;
+  position: absolute;
+  left: 124px;
+  top: 2879px;
+  overflow: hidden;
+}
+.person-sking-in-winter-1 {
+  border-radius: 20px;
+  width: 1219px;
+  height: 475px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  object-fit: cover;
+}
+.exclusive-travel-deals-up-to {
+  color: #000000;
+  text-align: left;
+  font-family: "Outfit-SemiBold", sans-serif;
+  font-size: 36px;
+  font-weight: 600;
+  position: absolute;
+  left: 79px;
+  top: 70px;
+}
+.on-your-dream-destinations-book {
+  color: #000000;
+  text-align: left;
+  font-family: "Outfit-SemiBold", sans-serif;
+  font-size: 36px;
+  font-weight: 600;
+  position: absolute;
+  left: 79px;
+  top: 117px;
+}
+.now-and-save-big {
+  color: #000000;
+  text-align: left;
+  font-family: "Outfit-SemiBold", sans-serif;
+  font-size: 36px;
+  font-weight: 600;
+  position: absolute;
+  left: 79px;
+  top: 164px;
+}
+._50-off {
+  color: #ffff00;
+  text-align: left;
+  font-family: "Outfit-SemiBold", sans-serif;
+  font-size: 36px;
+  font-weight: 600;
+  position: absolute;
+  margin-left: 600px;
+  margin-top: 70px;
+}
+.frame-25 {
+  background: #136ecc;
+  border-radius: 20px;
+  width: 266px;
+  height: 78px;
+  position: absolute;
+  left: 161px;
+  top: 255px;
+  overflow: hidden;
+}
+.book-now2 {
+  color: #ffff00;
+  text-align: left;
+  font-family: "Outfit-SemiBold", sans-serif;
+  font-size: 32px;
+  font-weight: 600;
+  position: absolute;
+  left: 60px;
+  top: 17px;
+}
